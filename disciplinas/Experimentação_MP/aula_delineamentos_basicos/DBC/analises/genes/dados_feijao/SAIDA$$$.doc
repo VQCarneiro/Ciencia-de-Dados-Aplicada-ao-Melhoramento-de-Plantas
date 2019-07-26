@@ -1,0 +1,41 @@
+
+                   ================================================================================
+                   Programa GENES                      Teste de Dunnett
+                   Arquivo de dados                    C:\Users\Cliente\Documents\GitHub\Plant-Data-Science---PDS\disciplinas\Experimentação_MP\aula_delineamentos_basicos\DBC\analises\genes\dados_feijao\dados_feijaomed.dat
+                   Número de variáveis                  1
+                   Graus de Liberdade do Resíduo       40
+                   Número de Repetições                3
+                   Nível de Significância              5
+                   Número de testemunhas               3
+                   Arquivo com os QMR                  C:\Users\Cliente\Documents\GitHub\Plant-Data-Science---PDS\disciplinas\Experimentação_MP\aula_delineamentos_basicos\DBC\analises\genes\dados_feijao\dados_feijaocre.dat
+                   Data                                07-25-2019
+                   ================================================================================
+
+                   Teste: Dunnett
+
+VARIÁVEL : x1      QMR : 100709.3524             td :  1.188         DMS : 307.8263 
+____________________________________________________________________________________________________
+14       T14                 2378.3333           abc
+4        T4                  2362.6667           abc
+8        T8                  2176.6667           abc
+1        T1                  2165.3333           abc
+3        T3                  2093.               abc
+16       T16                 2012.6667           abc
+12       T12                 1992.               abc
+13       T13                 1945.3333           abc
+11       T11                 1829.3333           a c
+7        T7                  1818.               a  
+5        T5                  1792.6667           a  
+17       T17                 1656.                  
+15       T15                 1646.                  
+6        T6                  1632.3333              
+10       T10                 1589.6667              
+18       T18                 1402.3333              
+2        T2                  1395.                  
+9        T9                  1346.6667              
+----------------------------------------------------------------------------------------------------
+19       T19                 2073.3333           a
+20       T20                 2171.                b
+21       T21                 2129.6667             c
+____________________________________________________________________________________________________
+
