@@ -10,7 +10,7 @@ Nosso objetivo é orientar e auxiliar estudantes de pós-graduação nos conheci
 ---
 ## Descrição
 
-Este repositório conta com diversas rotinas do software R voltadas para o auxilio de estudantes. Aqui são encontradas desde rotinas básicas como primeiros passos no R, operações matemáticas, criação de vetores e matrizes, manipulação de dados, e sorteios, assim como analises de dados de experimentos genéticos nos mais diversos delineamentos. Esperamos que este repositório auxilie no aprendizado do software R para aqueles que possuam pouco ou até mesmo nenhum conhecimento deste software. 
+Este repositório conta normas da disciplina, apresentações de aulas expositivas, listas de exercícios e rotinas do software R voltadas para o auxilio dos estudantes. Aqui são encontradas desde rotinas básicas como primeiros passos no R, operações matemáticas, criação de vetores e matrizes, manipulação de dados, e sorteios, assim como analises de dados de experimentos genéticos nos mais diversos delineamentos. Esperamos que este repositório auxilie no aprendizado do software R para aqueles que possuam pouco ou até mesmo nenhum conhecimento deste software. 
 
 ---
 ## Referência Bibliográfica
